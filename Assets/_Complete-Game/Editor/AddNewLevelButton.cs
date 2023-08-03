@@ -1,4 +1,3 @@
-using log4net.Core;
 using System.CodeDom.Compiler;
 using System.Collections;
 using System.Collections.Generic;
@@ -19,15 +18,15 @@ public class AddNewLevelButton //: EditorWindow
     //    }
     //}
 
-    //[MenuItem("Window/·¹º§ Ãß°¡")]
+    //[MenuItem("Window/ï¿½ï¿½ï¿½ï¿½ ï¿½ß°ï¿½")]
     //public static void ShowWindow()
     //{
-    //    GetWindow<AddNewLevelWindow>("·¹º§ Ãß°¡");
+    //    GetWindow<AddNewLevelWindow>("ï¿½ï¿½ï¿½ï¿½ ï¿½ß°ï¿½");
     //}
 
     //private void OnGUI()
     //{
-    //    if (GUILayout.Button("·¹º§ Ãß°¡"))
+    //    if (GUILayout.Button("ï¿½ï¿½ï¿½ï¿½ ï¿½ß°ï¿½"))
     //    {
     //        Board board = CreateInstance<Board>();
     //        AssetDatabase.CreateAsset(board, $"Assets/_Complete-Game/Levels/Level_{board.Level}.asset");

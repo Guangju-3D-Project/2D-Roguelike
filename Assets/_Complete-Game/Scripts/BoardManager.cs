@@ -35,9 +35,11 @@ namespace Completed
 		//public GameObject[] wallTiles;									//Array of wall prefabs.
 		//public GameObject[] foodTiles;									//Array of food prefabs.
 		//public GameObject[] enemyTiles;									//Array of enemy prefabs.
-		//public GameObject[] outerWallTiles;								//Array of outer tile prefabs.
-
+		//public GameObject[] outerWallTiles;
+											//Array of outer tile prefabs.
 		public List<Board> Boards;
+
+
 
 		private Board currentBoard;
 		private Transform boardHolder;									//A variable to store a reference to the transform of our Board object.
